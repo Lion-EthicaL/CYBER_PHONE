@@ -1,5 +1,5 @@
 # Cyber Phone 🚀
-
+![Tool Preview] (preview.png)
 A powerful Python tool for tracking and gathering information form phone numbers.
 
 ## 📌 Features
